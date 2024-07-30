@@ -1,0 +1,9 @@
+name: '${name}'
+version: '${version}'
+main: '${group}.${name}'
+api-version: 1.21
+prefix: '${name}'
+authors: [ Akoot_ ]
+description: Kotlin Standard Library plugin for Paper
+website: 'https://akoot.co/plugins/${name}'
+load: STARTUP
